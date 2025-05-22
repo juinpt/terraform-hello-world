@@ -1,3 +1,3 @@
 # terraform-hello-world
 
-My first attempt at creating a terraform from scratch by myself
+My first attempt at creating a terraform for AWS from scratch by myself
