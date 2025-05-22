@@ -1,7 +1,5 @@
-# terraform-hello-world
+# Terraform Hello World
 
-My first attempt at creating a terraform for AWS from scratch by myself
+A simple Terraform module to spin up an AWS EC2 instance. This was created as part of my ongoing self-study into cloud-native infrastructure using Terraform, AWS, and Kubernetes.
 
-Just a small project to load a hello world page.
 
-I'm expanding it adding more AWS features as I learn.
